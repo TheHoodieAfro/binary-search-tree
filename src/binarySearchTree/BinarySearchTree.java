@@ -5,7 +5,9 @@ public class BinarySearchTree<K extends Comparable<K>, T> {
 	private BSTNode<K, T> root;
 
 	public BinarySearchTree() {
+
 		root = null;
+
 	}
 
 	public T search(K k) {

@@ -10,10 +10,10 @@ public class Main {
 		bst1.add(15, "Juan");
 		bst1.add(7, "Cristian");
 		bst1.add(23, "Sergio");
-		bst1.add(12, "Andrés");
+		bst1.add(12, "Andres");
 		bst1.add(5, "Felipe");
 		bst1.add(2, "Mateo");
-		bst1.add(36, "Nicolás");
+		bst1.add(36, "Nicolas");
 		
 		System.out.println(bst1);
 		
